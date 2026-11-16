@@ -1,0 +1,34 @@
+{
+  "_comment": "课程源配置：换一门课时，只需修改本文件的 course/source/glossary 字段，然后按 README 顺序重跑 pipeline/ 下的脚本即可。",
+  "course": {
+    "id": "CS146S",
+    "title_en": "The Modern Software Developer (Vibe Coding)",
+    "title_zh": "现代软件开发者（Vibe Coding）",
+    "instructor": "Mihail Eric",
+    "term": "Stanford University, Fall 2025",
+    "site": "https://themodernsoftware.dev/"
+  },
+  "source": {
+    "type": "offline_dir",
+    "offline_dir": "../EduSeed挑战资料/挑战_C1 课程资料获取与翻译_pxzwy0_完整资料/materials/extracted/CS146S_offline",
+    "zip": "../EduSeed挑战资料/挑战_C1 课程资料获取与翻译_pxzwy0_完整资料/materials/CS146S_offline.zip",
+    "extra_pdfs": [
+      "../EduSeed挑战资料/挑战_C1 课程资料获取与翻译_pxzwy0_完整资料/materials/Vibe_Coding_Playbook.pdf"
+    ]
+  },
+  "glossary": "术语表/glossary.json",
+  "target": {
+    "raw": "原文",
+    "translated": "译文",
+    "qa": "qa",
+    "manifest": "data/manifest.json"
+  },
+  "chunking": {
+    "max_chars": 6000,
+    "overlap_chars": 200
+  },
+  "coverage": {
+    "min_ratio": 0.8,
+    "note": "验收要求：>=80% 有实质正文的讲义需有对应中文译文"
+  }
+}

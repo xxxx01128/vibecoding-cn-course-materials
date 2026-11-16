@@ -1,0 +1,367 @@
+{
+  "course": {
+    "id": "CS146S",
+    "title_en": "The Modern Software Developer (Vibe Coding)",
+    "title_zh": "现代软件开发者（Vibe Coding）",
+    "instructor": "Mihail Eric",
+    "term": "Stanford University, Fall 2025",
+    "site": "https://themodernsoftware.dev/"
+  },
+  "source_dir": "../EduSeed挑战资料/挑战_C1 课程资料获取与翻译_pxzwy0_完整资料/materials/extracted/CS146S_offline",
+  "items": [
+    {
+      "id": "P01",
+      "kind": "html",
+      "origin": "agentic-ai-threats.html",
+      "file": "01_agentic-ai-threats.md",
+      "title": "AI Agents Are Here. So Are the Threats.",
+      "url": "https://unit42.paloaltonetworks.com/agentic-ai-threats/",
+      "chars": 54961,
+      "status": "ok"
+    },
+    {
+      "id": "P02",
+      "kind": "html",
+      "origin": "ai-code-review-best-practices.html",
+      "file": "02_ai-code-review-best-practices.md",
+      "title": "AI code review implementation and best practices",
+      "url": "https://graphite.dev/guides/ai-code-review-implementation-best-practices",
+      "chars": 13113,
+      "status": "ok"
+    },
+    {
+      "id": "P03",
+      "kind": "html",
+      "origin": "benefits-agentic-ai-oncall.html",
+      "file": "03_benefits-agentic-ai-oncall.md",
+      "title": "The Top 5 Benefits of Agentic AI in On-call Engineering | Resolve AI Blog",
+      "url": "https://resolve.ai/blog/Top-5-Benefits",
+      "chars": 7420,
+      "status": "ok"
+    },
+    {
+      "id": "P04",
+      "kind": "html",
+      "origin": "claude-code-best-practices.html",
+      "file": "04_claude-code-best-practices.md",
+      "title": "Claude Code overview - Claude Code Docs",
+      "url": "https://www.anthropic.com/engineering/claude-code-best-practices",
+      "chars": 11152,
+      "status": "ok"
+    },
+    {
+      "id": "P05",
+      "kind": "html",
+      "origin": "code-review-essentials.html",
+      "file": "05_code-review-essentials.md",
+      "title": "Code Review Essentials for Software Teams » Blake Smith",
+      "url": "https://blakesmith.me/2015/02/09/code-review-essentials-for-software-teams.html",
+      "chars": 12032,
+      "status": "ok"
+    },
+    {
+      "id": "P06",
+      "kind": "html",
+      "origin": "code-reviews-just-do-it.html",
+      "file": "06_code-reviews-just-do-it.md",
+      "title": "Code Reviews: Just Do It",
+      "url": "https://blog.codinghorror.com/code-reviews-just-do-it/",
+      "chars": 3996,
+      "status": "ok"
+    },
+    {
+      "id": "P07",
+      "kind": "html",
+      "origin": "context-rot.html",
+      "file": "07_context-rot.md",
+      "title": "Context Rot: How Increasing Input Tokens Impacts LLM Performance·|·Chroma",
+      "url": "https://research.trychroma.com/context-rot",
+      "chars": 50897,
+      "status": "ok"
+    },
+    {
+      "id": "P08",
+      "kind": "html",
+      "origin": "copilot-prompt-injection-rce.html",
+      "file": "08_copilot-prompt-injection-rce.md",
+      "title": "GitHub Copilot: Remote Code Execution via Prompt Injection (CVE-2025-53773) · Embrace The Red",
+      "url": "https://embracethered.com/blog/posts/2025/github-copilot-remote-code-execution-via-prompt-injection/",
+      "chars": 7716,
+      "status": "ok"
+    },
+    {
+      "id": "P09",
+      "kind": "html",
+      "origin": "devin-coding-agents-101.html",
+      "file": "09_devin-coding-agents-101.md",
+      "title": "Coding Agents 101: The Art of Actually Getting Things Done",
+      "url": "https://devin.ai/agents101",
+      "chars": 21998,
+      "status": "ok"
+    },
+    {
+      "id": "P10",
+      "kind": "html",
+      "origin": "finding-vulnerabilities-claude-codex.html",
+      "file": "10_finding-vulnerabilities-claude-codex.md",
+      "title": "Finding vulnerabilities in modern web apps using Claude Code and OpenAI Codex | Semgrep",
+      "url": "https://semgrep.dev/blog/2025/finding-vulnerabilities-in-modern-web-apps-using-claude-code-and-openai-codex/",
+      "chars": 23673,
+      "status": "ok"
+    },
+    {
+      "id": "P11",
+      "kind": "html",
+      "origin": "good-context-good-code.html",
+      "file": "11_good-context-good-code.md",
+      "title": "StockApp Engineering",
+      "url": "https://blog.stockapp.com/good-context-good-code/",
+      "chars": 118,
+      "status": "stub"
+    },
+    {
+      "id": "P12",
+      "kind": "html",
+      "origin": "how-long-contexts-fail.html",
+      "file": "12_how-long-contexts-fail.md",
+      "title": "How Long Contexts Fail",
+      "url": "https://www.dbreunig.com/2025/06/22/how-contexts-fail-and-how-to-fix-them.html",
+      "chars": 11124,
+      "status": "ok"
+    },
+    {
+      "id": "P13",
+      "kind": "html",
+      "origin": "how-to-review-code-effectively.html",
+      "file": "13_how-to-review-code-effectively.md",
+      "title": "How to review code effectively: A GitHub staff engineer’s philosophy - The GitHub Blog",
+      "url": "https://github.blog/developer-skills/github/how-to-review-code-effectively-a-github-staff-engineers-philosophy/",
+      "chars": 22651,
+      "status": "ok"
+    },
+    {
+      "id": "P14",
+      "kind": "html",
+      "origin": "how-warp-uses-warp.html",
+      "file": "14_how-warp-uses-warp.md",
+      "title": "Notion",
+      "url": "https://notion.warp.dev/How-Warp-uses-Warp-to-build-Warp-21643263616d81a6b9e3e63fd8a7380c",
+      "chars": 0,
+      "status": "empty"
+    },
+    {
+      "id": "P15",
+      "kind": "html",
+      "origin": "kubernetes-troubleshooting-ai.html",
+      "file": "15_kubernetes-troubleshooting-ai.md",
+      "title": "Kubernetes Troubleshooting in Resolve AI",
+      "url": "https://resolve.ai/blog/kubernetes-troubleshooting-in-resolve-ai",
+      "chars": 10880,
+      "status": "ok"
+    },
+    {
+      "id": "P16",
+      "kind": "html",
+      "origin": "lessons-from-ai-code-reviews.html",
+      "file": "16_lessons-from-ai-code-reviews.md",
+      "title": "",
+      "url": "",
+      "chars": 0,
+      "status": "empty"
+    },
+    {
+      "id": "P17",
+      "kind": "html",
+      "origin": "mcp-food-for-thought.html",
+      "file": "17_mcp-food-for-thought.md",
+      "title": "APIs don't make good MCP tools",
+      "url": "https://www.reillywood.com/blog/apis-dont-make-good-mcp-tools/",
+      "chars": 5281,
+      "status": "ok"
+    },
+    {
+      "id": "P18",
+      "kind": "html",
+      "origin": "mcp-introduction.html",
+      "file": "18_mcp-introduction.md",
+      "title": "Model Context Protocol (MCP): A comprehensive introduction for developers",
+      "url": "https://stytch.com/blog/model-context-protocol-introduction/",
+      "chars": 33793,
+      "status": "ok"
+    },
+    {
+      "id": "P19",
+      "kind": "html",
+      "origin": "mcp-registry-preview.html",
+      "file": "19_mcp-registry-preview.md",
+      "title": "Introducing the MCP Registry | Model Context Protocol Blog",
+      "url": "https://blog.modelcontextprotocol.io/posts/2025-09-08-mcp-registry-preview/",
+      "chars": 6606,
+      "status": "ok"
+    },
+    {
+      "id": "P20",
+      "kind": "html",
+      "origin": "mcp-server-authentication.html",
+      "file": "20_mcp-server-authentication.md",
+      "title": "Build a Remote MCP server Â· Cloudflare Agents docs",
+      "url": "https://developers.cloudflare.com/agents/guides/remote-mcp-server/",
+      "chars": 14211,
+      "status": "ok"
+    },
+    {
+      "id": "P21",
+      "kind": "html",
+      "origin": "multi-agent-systems-ai-native.html",
+      "file": "21_multi-agent-systems-ai-native.md",
+      "title": "The role of multi agent systems in making software engineers AI-native",
+      "url": "https://resolve.ai/blog/role-of-multi-agent-systems-AI-native-engineering",
+      "chars": 10617,
+      "status": "ok"
+    },
+    {
+      "id": "P22",
+      "kind": "html",
+      "origin": "observability-basics.html",
+      "file": "22_observability-basics.md",
+      "title": "Traces & Spans: Observability Basics You Should Know | Last9",
+      "url": "https://last9.io/blog/traces-spans-observability-basics/",
+      "chars": 12161,
+      "status": "ok"
+    },
+    {
+      "id": "P23",
+      "kind": "html",
+      "origin": "owasp-top-ten.html",
+      "file": "23_owasp-top-ten.md",
+      "title": "OWASP Top Ten Web Application Security Risks | OWASP Foundation",
+      "url": "https://owasp.org/www-project-top-ten/",
+      "chars": 16494,
+      "status": "ok"
+    },
+    {
+      "id": "P24",
+      "kind": "html",
+      "origin": "peeking-under-the-hood-of-claude-code.html",
+      "file": "24_peeking-under-the-hood-of-claude-code.md",
+      "title": "Peeking Under the Hood of Claude Code",
+      "url": "",
+      "chars": 383,
+      "status": "stub"
+    },
+    {
+      "id": "P25",
+      "kind": "html",
+      "origin": "prompt-engineering-guide.html",
+      "file": "25_prompt-engineering-guide.md",
+      "title": "Prompting Techniques | Prompt Engineering Guide<!-- -->",
+      "url": "https://www.promptingguide.ai/techniques",
+      "chars": 662,
+      "status": "ok"
+    },
+    {
+      "id": "P26",
+      "kind": "html",
+      "origin": "prompt-engineering-overview.html",
+      "file": "26_prompt-engineering-overview.md",
+      "title": "Prompt Engineering for AI Guide | Google Cloud",
+      "url": "https://cloud.google.com/discover/what-is-prompt-engineering",
+      "chars": 24132,
+      "status": "ok"
+    },
+    {
+      "id": "P27",
+      "kind": "html",
+      "origin": "sast-vs-dast.html",
+      "file": "27_sast-vs-dast.md",
+      "title": "SAST vs. DAST vs. RASP: Comparing Application Security Testing Methods | Splunk",
+      "url": "https://www.splunk.com/en_us/blog/learn/sast-vs-dast.html",
+      "chars": 23333,
+      "status": "ok"
+    },
+    {
+      "id": "P28",
+      "kind": "html",
+      "origin": "specs-are-the-new-source-code.html",
+      "file": "28_specs-are-the-new-source-code.md",
+      "title": "The spec is dead, long live the spec!",
+      "url": "https://blog.ravi-mehta.com/p/specs-are-the-new-source-code",
+      "chars": 12546,
+      "status": "ok"
+    },
+    {
+      "id": "P29",
+      "kind": "html",
+      "origin": "sre-introduction.html",
+      "file": "29_sre-introduction.md",
+      "title": "Google SRE - IT Service Management: Automate Operations",
+      "url": "https://sre.google/sre-book/introduction/",
+      "chars": 26992,
+      "status": "ok"
+    },
+    {
+      "id": "P30",
+      "kind": "html",
+      "origin": "warp-vs-claude-code.html",
+      "file": "30_warp-vs-claude-code.md",
+      "title": "Getting started with Warp and Oz | Warp",
+      "url": "https://www.warp.dev/university/getting-started/warp-vs-claude-code",
+      "chars": 4099,
+      "status": "ok"
+    },
+    {
+      "id": "P31",
+      "kind": "html",
+      "origin": "writing-effective-tools-for-agents.html",
+      "file": "31_writing-effective-tools-for-agents.md",
+      "title": "Writing effective tools for AI agents—using AI agents \\ Anthropic",
+      "url": "https://www.anthropic.com/engineering/writing-tools-for-agents",
+      "chars": 22699,
+      "status": "ok"
+    },
+    {
+      "id": "P32",
+      "kind": "pdf",
+      "origin": "ai-assisted-code-review-assessment.pdf",
+      "file": "32_ai-assisted-code-review-assessment.md",
+      "title": "ai-assisted-code-review-assessment",
+      "url": "",
+      "chars": 53328,
+      "status": "ok",
+      "pages": 9
+    },
+    {
+      "id": "P33",
+      "kind": "pdf",
+      "origin": "how-anthropic-uses-claude-code.pdf",
+      "file": "33_how-anthropic-uses-claude-code.md",
+      "title": "how-anthropic-uses-claude-code",
+      "url": "",
+      "chars": 75191,
+      "status": "ok",
+      "pages": 23
+    },
+    {
+      "id": "P34",
+      "kind": "pdf",
+      "origin": "how-openai-uses-codex.pdf",
+      "file": "34_how-openai-uses-codex.md",
+      "title": "how-openai-uses-codex",
+      "url": "",
+      "chars": 13031,
+      "status": "ok",
+      "pages": 13
+    },
+    {
+      "id": "P35",
+      "kind": "pdf",
+      "origin": "Vibe_Coding_Playbook.pdf",
+      "file": "35_Vibe_Coding_Playbook.md",
+      "title": "Vibe_Coding_Playbook",
+      "url": "",
+      "chars": 0,
+      "status": "empty",
+      "pages": 14
+    }
+  ]
+}
